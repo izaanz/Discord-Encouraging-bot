@@ -13,3 +13,5 @@ A discord encouragement bot built with Python that:
 The script of the bot is inspired by Beau.
 
 To use the bot on your server, get the bot key from discord/developers page and paste in the .env file.
+
+For random quotes we are using API from quotesnewtab.com
