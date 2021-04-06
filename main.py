@@ -6,14 +6,16 @@ import random
 from replit import db
 
 # List of user defined sad words (we can use data of sad words to increase flexibility)
-sad_words = ['sad', 'depressed', 'unhappy', 'angry', 'miserable', 'depressing', 'tensed']
+sad_words = ['sad', 'depressed', 'unhappy', 'angry', 'miserable', 'depressing', 'tensed', 'bad day', 'hopeless']
 
 # List of user defined encouraging words
 starter_encouragements = [
   'You can do this!',
   'Hang in there.',
   "Remember! Everything is a part of life, it will pass sooner than you think :)",
-  "Go Kill yourself!"
+  "Believe you can and you're halfway there",
+  "Courage, dear heart.",
+  "The struggle you're in today is developing the strength you need for tomorrow."
 ]   
 
 if 'responding' not in db.keys():
