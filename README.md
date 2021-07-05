@@ -14,9 +14,8 @@ The script of the bot is inspired by Beau.
 
 To use the bot on your server, get the bot key from discord/developers page and paste in the .env file.
 
-For random quotes we are using API from quotesnewtab.com
+For random quotes i am using API from quotesnewtab.com
 
 
 
-https://user-images.githubusercontent.com/48772669/124501694-7a0a3e00-dddb-11eb-8fcf-267b3ce921f1.mp4
 
